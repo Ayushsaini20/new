@@ -1,0 +1,3 @@
+https://statusneo29.jfrog.io/artifactory/svn2git-generic-local//svn2git-generic-local/fontawesome-webfont3.bin, 252544 bytes
+https://statusneo29.jfrog.io/artifactory/svn2git-generic-local//svn2git-generic-local/Lato-Regular.bin, 56448 bytes
+Total size of binary files: 0 bytes
